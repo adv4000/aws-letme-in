@@ -1,4 +1,4 @@
-# Update EC2 SecurityGroup to your Pubic IP address
+# Update EC2 SecurityGroup to your Public IP address
 
 If your Public IP frequently changes and you need to keep your SecurityGroup
 open ONLY to your Public IP, just execute this script again, it will update
