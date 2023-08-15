@@ -5,7 +5,7 @@
 # SecurityGroup Rule with a new Public IP. Can be used by multiply IAM users.
 #
 # Version   Date             Name             Info
-# 1.0       15-Aug-202      Denis Astahov     Initial Version
+# 1.0       15-Aug-2023      Denis Astahov    Initial Version
 #
 #-------------------------------------------------------------------------------
 SG_AWS_REGION="us-west-2"                  # Region where  SecurityGroup exist
